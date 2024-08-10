@@ -16,7 +16,7 @@ function Intro() {
                   <div class="col-lg-5 col-md-6">
                     <div class="banner-content">
                       <h1>
-                        Nike New <br />
+                        Sai Sagar New <br />
                         Collection!
                       </h1>
                       <p>
@@ -37,7 +37,7 @@ function Intro() {
                     <div class="banner-img">
                       <img
                         className="img-fluid"
-                        src="img/banner/banner-img.png"
+                        src="img/banner/CombineBoxesNoBg.png"
                         alt=""
                       />
                     </div>
@@ -45,11 +45,11 @@ function Intro() {
                 </div>
               </Carousel.Item>
               <Carousel.Item>
-              <div class="row single-slide align-items-center d-flex">
+                <div class="row single-slide align-items-center d-flex">
                   <div class="col-lg-5 col-md-6">
                     <div class="banner-content">
                       <h1>
-                        Nike New <br />
+                        Sai Sagar New <br />
                         Collection!
                       </h1>
                       <p>
@@ -70,7 +70,7 @@ function Intro() {
                     <div class="banner-img">
                       <img
                         className="img-fluid"
-                        src="img/banner/banner-img.png"
+                        src="img/banner/CombineBoxesNoBg.png"
                         alt=""
                       />
                     </div>
@@ -78,11 +78,11 @@ function Intro() {
                 </div>
               </Carousel.Item>
               <Carousel.Item>
-              <div class="row single-slide align-items-center d-flex">
+                <div class="row single-slide align-items-center d-flex">
                   <div class="col-lg-5 col-md-6">
                     <div class="banner-content">
                       <h1>
-                        Nike New <br />
+                        Sai Sagar New <br />
                         Collection!
                       </h1>
                       <p>
@@ -103,7 +103,7 @@ function Intro() {
                     <div class="banner-img">
                       <img
                         className="img-fluid"
-                        src="img/banner/banner-img.png"
+                        src="img/banner/CombineBoxesNoBg.png"
                         alt=""
                       />
                     </div>
